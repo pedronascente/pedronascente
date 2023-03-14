@@ -10,9 +10,7 @@
 ##
     
 <div align="center"> 
-    
-   <a href = "mailto:ads.pict@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+    <a href = "mailto:nascented3@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  
  ##
@@ -31,6 +29,8 @@
     <img  align="center" alt="Alana-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img  align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+    
 </div>
  
 </div>
