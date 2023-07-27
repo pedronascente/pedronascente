@@ -36,14 +36,17 @@
 
 
 ## portifolio:
-https://www.grupovolpato.com/
-https://portariavirtualvolpato.com.br/
-https://www.portariavolpato.com.br/
-https://easyseg.com/
-https://www.volpatorastreamento.com.br/
-https://indiqueganhe.volpato.tv.br/alarme/
-https://indiqueganhe.volpato.tv.br/embaixador/alarme/
- 
+
+<div style="display: inline_block " ><br>
+ -- https://www.grupovolpato.com/
+-- https://portariavirtualvolpato.com.br/
+-- https://www.portariavolpato.com.br/
+-- https://easyseg.com/
+-- https://www.volpatorastreamento.com.br/
+-- https://indiqueganhe.volpato.tv.br/alarme/
+-- https://indiqueganhe.volpato.tv.br/embaixador/alarme/
+-- https://cadastromorador.com.br/
+ </div>
 </div>
 
 
