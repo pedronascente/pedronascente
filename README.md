@@ -33,21 +33,7 @@
     
 </div>
 
- ##
 
-## Portifolio:
-
-<div style="display: inline_block " ><br>
-     https://www.grupovolpato.com/ <br>
-     https://portariavirtualvolpato.com.br/ <br>
-     https://www.portariavolpato.com.br/ <br>
-     https://easyseg.com/ <br>
-     https://www.volpatorastreamento.com.br/ <br>
-     https://indiqueganhe.volpato.tv.br/alarme/ <br>
-     https://indiqueganhe.volpato.tv.br/embaixador/alarme/ <br>
-     https://cadastromorador.com.br/ <br>
-     https://baralhociganoonline.com/ <br>
- </div>
 </div>
 
 
